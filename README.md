@@ -1,5 +1,5 @@
-# Cryptocurrency News Wesbsites
-A list of cryptocurrency news sites
+# Cryptocurrency News Websites
+Goal is to provide a consolidated list of all cryptocurrency focused news outlets.
 
 # Contribute
 * Create a new pull request
