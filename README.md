@@ -4,7 +4,11 @@ Goal is to provide a consolidated list of all cryptocurrency focused news outlet
 # Contribute
 * Create a new pull request
 
-## The List
+## Websites
 * [Bicoin.com](https://news.bitcoin.com/)
 * [Coindeak](https://www.coindesk.com/)
 * [Cointelegraph](https://cointelegraph.com)
+
+## Telegram Groups
+
+## Twitter Accounts
