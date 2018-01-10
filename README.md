@@ -1,5 +1,5 @@
-# Cryptocurrency News Websites
-Goal is to provide a consolidated list of all cryptocurrency focused news outlets.
+# Cryptocurrency News Resources
+Goal is to provide a consolidated list of all cryptocurrency focused news resources.
 
 # Contribute
 * Create a new pull request
